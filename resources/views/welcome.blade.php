@@ -43,24 +43,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <div class="d-md-flex justify-content-between">
                         <ul class="social-iconsv2 agileinfo mt-md-0 mt-2">
                             <li class="ml-lg-5">
-                                <a href="#">
-                                    <i class="fab fa-facebook-f"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fab fa-google-plus-g"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="fab fa-linkedin-in"></i>
-                                </a>
                             </li>
                         </ul>
                     </div>
