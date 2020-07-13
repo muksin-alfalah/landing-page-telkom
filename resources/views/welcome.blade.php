@@ -368,7 +368,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <div class="col-10 contact-add">
                                     <h6>email</h6>
                                     <p>
-                                        <a href="mailto:example@email.com" class="text-dark">fadly@gmail.com</a>
+                                        <a href="example@email.com" class="text-dark">muksin@gmail.com</a>
                                     </p>
                                 </div>
                             </div>
